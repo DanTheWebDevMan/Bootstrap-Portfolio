@@ -12,7 +12,13 @@ body {
   }
   
   /* general */
-  
+
+  .navbar-light .navbar-brand {
+      background-color: #4aaaa5;
+      color:white;
+      
+  }
+
   .container {
     width: 100%;
     max-width: 960px;
