@@ -16,7 +16,10 @@ body {
   .navbar-light .navbar-brand {
       background-color: #4aaaa5;
       color:white;
-      
+  }
+
+  .navbar-brand {
+      float: left;
   }
 
   .container {
